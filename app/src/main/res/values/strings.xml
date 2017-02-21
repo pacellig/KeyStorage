@@ -2,4 +2,7 @@
     <string name="app_name">NewKeyStorage</string>
     <string name="hint_password">Password</string>
     <string name="ok_button">Ok</string>
+    <string name="shared_pref_file">com.pacellig.sharedPrefs</string>
+    <string name="hint_password_confirm">Confirm Password</string>
+    <string name="password_constraints">Password must be at least 8 characters long, contain at least a number, an uppercase and a lowercase letter</string>
 </resources>
